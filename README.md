@@ -18,7 +18,7 @@
 
 ---
 
-### 🕷️ // THE WEAVER: WHOAMI
+### // THE WEAVER: WHOAMI
 
 ```bash
 $ cat /etc/passwd | grep nour0704
@@ -31,7 +31,7 @@ user@web:~$ whoami --verbose
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-### 🕸️ // THE WEB: TECH STACK
+### // THE WEB: TECH STACK
 
 <div align="center">
   <img src="./assets/web.svg" width="100%" alt="Animated pixel spider web with data packets racing to the center" />
@@ -57,7 +57,7 @@ user@web:~$ whoami --verbose
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-### 🪤 // THE CATCH: PROJECTS
+### // THE CATCH: PROJECTS
 
 ```bash
 $ ls -la /web/captured/
@@ -71,7 +71,7 @@ $ ls -la /web/captured/
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-### 📊 // TELEMETRY: WHAT THE WEB CAUGHT
+### // TELEMETRY: WHAT THE WEB CAUGHT
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nour0704&show_icons=true&hide_border=true&bg_color=07040d&title_color=e11d48&text_color=d9d4e8&icon_color=8b5cf6" height="175" alt="GitHub Stats" />
